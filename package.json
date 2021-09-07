@@ -1,0 +1,16 @@
+{
+  "name": "spotify-api",
+  "version": "1.0.0",
+  "description": "- trying to make one of my own spotify playlist analyzers; not sure if I want it to actually be hosted anywhere - learning JavaScript - interfacing a JS app with CSS and JS - maybe adding it to my portfolio",
+  "main": "index.js",
+  "dependencies": {
+    "spotify": "^0.3.0",
+    "spotify-web-api-node": "^5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
